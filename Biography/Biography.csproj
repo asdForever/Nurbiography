@@ -49,7 +49,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="EPubReader">
-      <HintPath>..\..\..\..\..\Desktop\test\windows phone\epub reader\EPubReaderWP\EPubReader.dll</HintPath>
+      <HintPath>..\..\..\..\Users\Андрей\Desktop\EPubReaderWP\EPubReader.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.Phone" />
     <Reference Include="Microsoft.Phone.Interop" />
